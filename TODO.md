@@ -1,6 +1,6 @@
 # TODO
 
--[ ] Convert each type of generator to golang.
+- [ ] Convert each type of generator to golang.
     - [ ] Gun
     - [ ] Melee
     - [ ] Armor
