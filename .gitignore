@@ -1,0 +1,28 @@
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Go executables and test binaries
+/go-armory
+/armory
+*.exe
+*.test
+
+# Build output
+/bin/
+/dist/
+
+# Test coverage and profiling output
+/coverage/
+/coverage.out
+/coverage.html
+*.prof
+
+# Local Go workspace configuration
+/go.work
+/go.work.sum
+
+# Operating system files
+.DS_Store
+Thumbs.db
